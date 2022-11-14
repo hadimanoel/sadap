@@ -1,0 +1,5 @@
+echo "Rename OBB" 
+rename /storage/emulated/0/Android/obb/com.tencent.ig/main.11090.com.tencent.ig.obb /storage/emulated/0/Android/obb/com.tencent.ig/main.11090.com.tencent.ig.obbSPJK
+echo "Rename Data" 
+rename /storage/emulated/0/Android/data/com.tencent.ig /storage/emulated/0/Android/data/com.tencent.igSPJK
+echo "ASIAP CROT DI TOKET" 
